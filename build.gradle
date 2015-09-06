@@ -22,7 +22,7 @@ group= "com.coffeebeaver.eviria" // http://maven.apache.org/guides/mini/guide-na
 archivesBaseName = "Eviria"
 
 minecraft {
-    version = "1.7.10-10.13.4.1492-1.7.10"
+    version = "1.7.10-10.13.4.1492"
     runDir = "eclipse"
 }
 
